@@ -1,0 +1,9 @@
+{
+  "name": "tronbox-document",
+  "description": "TronBox document",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "docsify serve docs --open=false --port=5020"
+  }
+}
