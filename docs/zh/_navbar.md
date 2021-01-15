@@ -1,4 +1,3 @@
-- [示例项目](/)
 - Translations
   - [:uk: English](/)
   - [:cn: 中文](/zh/)
